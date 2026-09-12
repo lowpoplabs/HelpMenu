@@ -1,0 +1,17 @@
+{
+  "Plugin": "XPerience",
+  "Title": "XPerience",
+  "Description": "Level up by playing: earn XP for farming, fighting, crafting and building, then spend points on stats and skills. XPerience has its own full help menu in game.",
+  "Commands": [
+    { "Command": "/xphelp", "Args": "", "Description": "Open XPerience's own help menu", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/xpstats", "Args": "", "Description": "Open your stats profile", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/xptop", "Args": "", "Description": "See the top players", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Play normally — gathering, fighting and building all earn XP.",
+    "Type /xpstats to open your profile and spend points.",
+    "Type /xphelp for the full XPerience guide and command list."
+  ],
+  "Notes": [ "This is a third-party plugin with its own menus — /xphelp covers everything." ],
+  "Order": 60
+}

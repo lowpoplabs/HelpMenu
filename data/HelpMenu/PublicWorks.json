@@ -1,0 +1,20 @@
+{
+  "Plugin": "PublicWorks",
+  "Title": "Public Works Office",
+  "Description": "Pool scrap at the Public Works clerk to keep the island's utilities running — power, water, gas, markets, airport, internet, trains and heli protection. When something breaks, take the repair contract and get paid.",
+  "Commands": [
+    { "Command": "/pw", "Args": "", "Description": "Open the services panel (at the office)", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/pwinfo", "Args": "", "Description": "Check service status from anywhere", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/drink", "Args": "[item|info]", "Description": "Drink from your inventory, or list drinks", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Type /pwinfo anywhere to see which services are running and what's broken.",
+    "Walk to the Public Works clerk (orange dot on your map) and type /pw.",
+    "Click a service to pay scrap into its shared bucket — the whole island benefits.",
+    "If a service breaks, hit TAKE JOB, bring the listed materials to the red map dot, and press USE at the site for a scrap reward.",
+    "Use the grocery machines, drone delivery and gas-station pumps while those services are paid up.",
+    "Thirsty? Buy a Mr Spice or vodka at the grocery, put it on your belt, holster your hands and right-click to swig — or just type /drink."
+  ],
+  "Notes": [ "Services cost about 100 scrap per day and drain faster with more players online.", "Banked time is shared by the whole server.", "Repair contracts are first come, first paid." ],
+  "Order": 30
+}

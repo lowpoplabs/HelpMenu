@@ -1,0 +1,15 @@
+{
+  "Plugin": "NightLantern",
+  "Title": "Night Lantern",
+  "Description": "Your lanterns and candles light themselves at dusk and go out at dawn.",
+  "Commands": [
+    { "Command": "/lantern", "Args": "", "Description": "Toggle auto-lighting for your lights", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Place lanterns or candles as normal.",
+    "They switch on automatically when night falls and off at dawn.",
+    "Type /lantern if you'd rather manage yours by hand."
+  ],
+  "Notes": [],
+  "Order": 70
+}

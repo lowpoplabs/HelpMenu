@@ -1,0 +1,17 @@
+{
+  "Plugin": "IslandTaxi",
+  "Title": "Island Taxi",
+  "Description": "Dial 555-TAXI1 from any phone to call a taxi: pick a vehicle, drop a map pin, and an NPC chauffeur flies, sails or drives you there. Fares are paid up front in scrap and scale with distance.",
+  "Commands": [
+    { "Command": "/taxi cancel", "Args": "", "Description": "Cancel your booking or current ride", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Use any pay phone or a mobile phone and dial 55582941 — listed as Island Taxi in the directory.",
+    "Pick a vehicle from the menu; each shows its terrain, fare and speed.",
+    "Open your map and drop a marker on your destination, then confirm the quote.",
+    "Wait where you are — the taxi arrives from off the map. Press E on a passenger seat to board.",
+    "Ride to the drop-off; the driver leaves on his own. /taxi cancel bails out any time."
+  ],
+  "Notes": [ "The fleet: Minicopter, Attack Heli and Scrap Heli fly anywhere; Car, Armored Car and Motorcycle serve the roads; the Boat works the coast and rivers; the Horse goes cross-country.", "Dedicated stops: heli pads at Outpost, Bandit Camp, Radtown, the Apartment Complex roof and both Oil Rigs — plus boat docks at both rigs. Anywhere else, the taxi finds a safe spot near your pin.", "No refunds once the taxi has spawned.", "Teammates standing near you board too on team vehicles like the Scrap Heli." ],
+  "Order": 20
+}

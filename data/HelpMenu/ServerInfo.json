@@ -1,0 +1,15 @@
+{
+  "Plugin": "ServerInfo",
+  "Standalone": true,
+  "Title": "Welcome",
+  "Description": "Welcome to the island — a small private server where the world keeps living while you're away. Utilities hum, taxis run, and the locals have their own plans. This menu is the field guide.",
+  "Commands": [],
+  "HowTo": [
+    "Pick a topic on the left — each page shows what it does, its commands, and how to use it.",
+    "Type /help any time to reopen this menu, or /help <topic> to get a page as chat text.",
+    "Start with Rust Quests: read the welcome note in your pack and go find the first trader.",
+    "Short on scrap? Public Works repair contracts and looting substation transformers both pay."
+  ],
+  "Notes": [ "Something broken, confusing, or missing? Hit the Feedback button at the top of this menu and write a note — it lands straight in the owner's box." ],
+  "Order": 1
+}

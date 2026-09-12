@@ -1,0 +1,24 @@
+{
+  "Plugin": "ApartmentComplexUnlock",
+  "Title": "Apartment Complex",
+  "Description": "Furnish the room you rent at the Apartment Complex — place deployables, run pipes, hang wallpaper and reskin your stuff, none of which vanilla allows inside the monument. The NPC turrets are gone too.",
+  "Commands": [
+    { "Command": "/aphelp", "Args": "", "Description": "Open the in-game guide and item list", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/apdeploy", "Args": "<item>", "Description": "Start a placement preview for an item", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/aprotate", "Args": "[degrees]", "Description": "Rotate the preview (45° steps)", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/applace", "Args": "", "Description": "Place the previewed object at your aim", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/apcancel", "Args": "", "Description": "Cancel the placement preview", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/apnudge", "Args": "[amount]", "Description": "Raise or lower an object you placed", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/apundeploy", "Args": "", "Description": "Pick up the object you're looking at", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/appipe", "Args": "[clear|cancel]", "Description": "Link two containers with a pipe", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Rent a room at the Apartment Complex the normal way.",
+    "Stand in your room and hold a deployable — a green ghost means it will place, red means you're outside your room.",
+    "Left-click to place it (the item is consumed); press R to rotate in 45° steps.",
+    "Hold the pipe tool to connect containers, the wallpaper tool to decorate, and the spray can to reskin.",
+    "Look at one of your objects and type /apundeploy to take the item back."
+  ],
+  "Notes": [ "The roof is a communal area for all tenants — head up and hang out.", "Parking lifts at the complex store your vehicle while you're home.", "Horse troughs on site keep your horse fed.", "Items are consumed on placement and refunded by /apundeploy — but checking out or being evicted destroys them with NO refund, so /apundeploy first.", "Limit of 10 placed objects per room." ],
+  "Order": 25
+}

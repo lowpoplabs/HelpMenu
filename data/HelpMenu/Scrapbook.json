@@ -1,0 +1,18 @@
+{
+  "Plugin": "Scrapbook",
+  "Title": "Scrapbook",
+  "Description": "A pocket scrapbook that collects the pamphlets, photos and written notes you pick up into one book that costs zero inventory slots. Pull a fresh copy of any page back out for a picture frame or a friend.",
+  "Commands": [
+    { "Command": "/scrapbook", "Args": "", "Description": "Open your scrapbook (also /sb)", "Permission": "", "AuthLevel": 0 },
+    { "Command": "sb.open", "Args": "", "Description": "Open the book (bindable in console)", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Pick up pamphlets, photos or written notes and keep them in your inventory.",
+    "Type /scrapbook (or /sb) to open the book.",
+    "Press Store pages to paste everything you're carrying into it.",
+    "Page through with Prev/Next and the Prints/Papers tabs.",
+    "Press Take a copy to pull a page back out — the original stays in the book."
+  ],
+  "Notes": [ "Holds 200 pages per player.", "Your book survives map wipes — it's a keepsake." ],
+  "Order": 40
+}

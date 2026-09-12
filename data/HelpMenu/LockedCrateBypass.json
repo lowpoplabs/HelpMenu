@@ -1,0 +1,14 @@
+{
+  "Plugin": "LockedCrateBypass",
+  "Title": "Keycard Crate Bypass",
+  "Description": "Skip the 15-minute hack on a Hackable Locked Crate: aim at it with a green keycard and press fire. Each unlock burns 25% of the card's durability.",
+  "Commands": [],
+  "HowTo": [
+    "Hold a green keycard as your active item.",
+    "Look at a Hackable Locked Crate from within 3 meters.",
+    "Press primary fire — the crate finishes hacking within a second.",
+    "Loot it as normal. Four unlocks breaks the card."
+  ],
+  "Notes": [ "Crates at Radtown can't be bypassed.", "The normal hack alert still fires — other players are alerted exactly as with a real hack." ],
+  "Order": 50
+}

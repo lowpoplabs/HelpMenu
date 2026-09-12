@@ -1,0 +1,17 @@
+{
+  "Plugin": "RustQuests",
+  "Title": "Rust Quests",
+  "Description": "Four hidden traders live in secret train cabooses across the map, each with a chain of story quests that ends at a shared vault. Every wipe rolls a different storyline — and your call at the finale decides how the island treats you afterwards.",
+  "Commands": [
+    { "Command": "/quest", "Args": "", "Description": "Open your quest journal (also /quests)", "Permission": "", "AuthLevel": 0 }
+  ],
+  "HowTo": [
+    "Read the welcome note that lands in your pack when you first wake up.",
+    "Type /quest to open the journal — The Work tab shows who to find next.",
+    "Track down the hidden caboose shop and press E on the trader to talk.",
+    "Accept her quest, do the work, then return and claim the reward.",
+    "Finish all four chains, then make your call at the vault finale."
+  ],
+  "Notes": [ "The story and shop locations reroll each wipe.", "Building is blocked near a trader's shop." ],
+  "Order": 10
+}

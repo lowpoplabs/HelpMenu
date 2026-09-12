@@ -1,0 +1,14 @@
+{
+  "Plugin": "LootableObjects",
+  "Title": "Lootable World Objects",
+  "Description": "Static scenery that normally does nothing — like the electrical transformers at power substations — can be looted for fuses, tech parts, scrap and electrical components.",
+  "Commands": [],
+  "HowTo": [
+    "Find a substation transformer.",
+    "Look at it from within 4 meters and press USE (E).",
+    "Take what you want from the loot panel.",
+    "Emptied objects restock about 30 minutes later."
+  ],
+  "Notes": [],
+  "Order": 55
+}

@@ -1,0 +1,9 @@
+{
+  "Plugin": "NoFuelRequirements",
+  "Title": "Free Light Fuel",
+  "Description": "Small lights never burn fuel: lanterns, chinese lanterns, tuna can lamps, miner's hats, candle hats and hobo barrels run forever. Furnaces, campfires, refineries and generators still need fuel.",
+  "Commands": [],
+  "HowTo": [],
+  "Notes": [ "Nothing to do — hang your lanterns and forget about low grade." ],
+  "Order": 75
+}
