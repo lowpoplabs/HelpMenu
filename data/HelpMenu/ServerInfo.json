@@ -8,7 +8,8 @@
     "Pick a topic on the left — each page shows what it does, its commands, and how to use it.",
     "Type /help any time to reopen this menu, or /help <topic> to get a page as chat text.",
     "Start with Rust Quests: read the welcome note in your pack and go find the first trader.",
-    "Short on scrap? Public Works repair contracts and looting substation transformers both pay."
+    "Short on scrap? Public Works repair contracts and looting substation transformers both pay.",
+    "Cobalt runs checkpoints on the roads and at the monuments and keeps a file on everyone. Type /papers to read yours, and see the Cobalt Papers Please page before you rob one of their crates."
   ],
   "Notes": [ "Something broken, confusing, or missing? Hit the Feedback button at the top of this menu and write a note — it lands straight in the owner's box." ],
   "Order": 1

@@ -12,6 +12,6 @@
     "Wait where you are — the taxi arrives from off the map. Press E on a passenger seat to board.",
     "Ride to the drop-off; the driver leaves on his own. /taxi cancel bails out any time."
   ],
-  "Notes": [ "The fleet: Minicopter, Attack Heli and Scrap Heli fly anywhere; Car, Armored Car and Motorcycle serve the roads; the Boat works the coast and rivers; the Horse goes cross-country.", "Dedicated stops: heli pads at Outpost, Bandit Camp, Radtown, the Apartment Complex roof and both Oil Rigs — plus boat docks at both rigs. Anywhere else, the taxi finds a safe spot near your pin.", "No refunds once the taxi has spawned.", "Teammates standing near you board too on team vehicles like the Scrap Heli." ],
+  "Notes": [ "The fleet: Minicopter, Attack Heli and Scrap Heli fly anywhere; Car, Armored Car and Motorcycle serve the roads; the Boat works the coast and rivers; the Horse goes cross-country.", "Dedicated stops: heli pads at Outpost, Bandit Camp, Radtown, the Apartment Complex roof and both Oil Rigs — plus boat docks at both rigs. Anywhere else, the taxi finds a safe spot near your pin.", "No refunds once the taxi has spawned.", "Teammates standing near you board too on team vehicles like the Scrap Heli.", "Dispatch checks your Cobalt record: Citizens ride 10% cheaper, the Wanted pay double, and an Enemy of the State is refused a car." ],
   "Order": 20
 }
