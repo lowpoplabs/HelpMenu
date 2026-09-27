@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-09-27
+
+Bundled help pages only; the plugin itself is unchanged.
+
+### Changed
+- `IslandTaxi.json`: a note that fares follow the rider's Cobalt standing (Island Taxi 1.6.0 with Cobalt Papers Please).
+- `PublicWorks.json`: a note that repair contracts and service payments earn Cobalt standing (Public Works 2.9.0 with Cobalt Papers Please).
+- `ServerInfo.json`: the welcome page points new players at `/papers` and the Cobalt Papers Please page.
+
+### Notes
+- Cobalt Papers Please ships its own page through the `GetHelpInfo` hook, so it needs no data file.
+
 ## [1.0.1] - 2026-09-12
 
 First public release on GitHub — no behaviour changes.
