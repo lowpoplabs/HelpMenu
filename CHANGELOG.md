@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-10-03
+
+Bundled help pages only; the plugin itself is unchanged.
+
+### Changed
+- `PublicWorks.json`: the `/pw pole` command, how-to steps for pole transformer work orders and the office phone line (5559-6757), and a note that pole transformers read 0 on the wire tool while the power still flows (Public Works 2.10.0).
+
 ## [1.0.2] - 2026-09-27
 
 Bundled help pages only; the plugin itself is unchanged.

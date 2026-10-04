@@ -9,7 +9,7 @@ using UnityEngine;  // ArgEx (arg.Player()) lives in the UnityEngine namespace
 
 namespace Oxide.Plugins
 {
-    [Info("HelpMenu", "LowPopLabs", "1.0.2")]
+    [Info("HelpMenu", "LowPopLabs", "1.0.3")]
     [Description("A /help CUI browser for every player-facing plugin on the server: descriptions, commands and how-to steps, fed by a GetHelpInfo hook or data files and filtered to what each player can actually use.")]
     public class HelpMenu : RustPlugin
     {
