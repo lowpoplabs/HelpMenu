@@ -5,16 +5,19 @@
   "Commands": [
     { "Command": "/pw", "Args": "", "Description": "Open the services panel (at the office)", "Permission": "", "AuthLevel": 0 },
     { "Command": "/pwinfo", "Args": "", "Description": "Check service status from anywhere", "Permission": "", "AuthLevel": 0 },
+    { "Command": "/pw pole", "Args": "[cancel]", "Description": "Next to a roadside power pole: file a work order for a transformer on it", "Permission": "", "AuthLevel": 0 },
     { "Command": "/drink", "Args": "[item|info]", "Description": "Drink from your inventory, or list drinks", "Permission": "", "AuthLevel": 0 }
   ],
   "HowTo": [
     "Type /pwinfo anywhere to see which services are running and what's broken.",
     "Walk to the Public Works clerk (orange dot on your map) and type /pw.",
     "Click a service to pay scrap into its shared bucket — the whole island benefits.",
+    "Too far to walk? Dial 5559-6757 (Public Works Office in the phone directory) from any telephone to pay from afar — each payment costs 10 scrap extra.",
+    "Want grid power at your base? Stand next to a plain roadside power pole and type /pw pole, then pay the work order at the office or by phone. A crew drives out, fits a transformer and leaves a ladder.",
     "If a service breaks, hit TAKE JOB, bring the listed materials to the red map dot, and press USE at the site for a scrap reward.",
     "Use the grocery machines, drone delivery and gas-station pumps while those services are paid up.",
     "Thirsty? Buy a Mr Spice or vodka at the grocery, put it on your belt, holster your hands and right-click to swig — or just type /drink."
   ],
-  "Notes": [ "Services cost about 100 scrap per day and drain faster with more players online.", "Banked time is shared by the whole server.", "Repair contracts are first come, first paid.", "Cobalt notices civic work: a finished repair earns +10 standing (minor fault) or +20 (major), and paying for a service earns +2 once a day. Type /papers to see your record." ],
+  "Notes": [ "Pole transformers read 0 on the wire tool unless the power plant has fuses in — the power still flows while Electricity is paid. Wire a battery in and watch it charge.", "A pole transformer is a public hookup: anyone can wire into it. One work order per player per wipe.", "Services cost about 100 scrap per day and drain faster with more players online.", "Banked time is shared by the whole server.", "Repair contracts are first come, first paid.", "Cobalt notices civic work: a finished repair earns +10 standing (minor fault) or +20 (major), and paying for a service earns +2 once a day. Type /papers to see your record." ],
   "Order": 30
 }
