@@ -5,7 +5,7 @@
 An Oxide plugin for Rust that gives players a single `/help` command opening a CUI browser of every player-facing plugin on the server — description, commands, and how-to steps — with a Welcome page, a feedback box, and gentle chat reminders that it exists.
 
 <!-- lpl:links -->
-**[Download v1.0.2](https://github.com/lowpoplabs/HelpMenu/releases/latest)** · **Flyer:** [web](https://lowpoplabs.github.io/flyers/HelpMenu.html) / [PDF](HelpMenu-Flyer.pdf) · **[Changelog](CHANGELOG.md)** · **[Ko-fi](https://ko-fi.com/lowpoplabs)**
+**[Download v1.0.3](https://github.com/lowpoplabs/HelpMenu/releases/latest)** · **Flyer:** [web](https://lowpoplabs.github.io/flyers/HelpMenu.html) / [PDF](HelpMenu-Flyer.pdf) · **[Changelog](CHANGELOG.md)** · **[Ko-fi](https://ko-fi.com/lowpoplabs)**
 <!-- /lpl:links -->
 
 ## Features
